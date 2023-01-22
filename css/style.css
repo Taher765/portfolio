@@ -107,7 +107,7 @@ section {
   .sidebar .logo.activeLogo {
     height: 72px;
     position: absolute;
-    left: 325px;
+    left: 300px;
     border: none;
   }
 }
